@@ -1,0 +1,5 @@
+Generic single-database configuration.
+
+## Create migration
+
+alembic revision --autogenerate -m "Your message here"
